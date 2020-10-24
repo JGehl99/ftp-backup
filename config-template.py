@@ -3,5 +3,6 @@ config = {
     "port": 21,
     "user": "",
     "passwd": "",
-    "path": ""
+    "path": "",
+    "dl_dir": "/"
 }
